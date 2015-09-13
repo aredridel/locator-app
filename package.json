@@ -1,0 +1,11 @@
+{
+  "name": "locator-app",
+  "version": "1.0.0",
+  "description": "The Locator app",
+  "main": "index.js",
+  "author": "Aria Stewart <aredridel@dinhe.net>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ionic": "^1.6.4"
+  }
+}
