@@ -7,5 +7,13 @@
   "license": "UNLICENSED",
   "dependencies": {
     "ionic": "^1.6.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aredridel/locator-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aredridel/locator-app/issues"
+  },
+  "homepage": "https://github.com/aredridel/locator-app#readme"
 }
